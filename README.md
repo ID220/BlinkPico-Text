@@ -2,7 +2,7 @@
 
 This library works in combination with the [BlinkPico](https://github.com/ID220/BlinkPico) library and it allows to show on the display either a single character or a scrolling string.
 
-Available characters are the alphabet letters `a-z` / `A-Z`, digits `0-9`, space, `_`, `.`, `,`, and `⬜️` ("block").
+Available characters are the alphabet letters `a-z` / `A-Z`, digits `0-9`, space, `-`, `.`, and `,`.
 
 Example:
 
